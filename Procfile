@@ -1,1 +1,1 @@
-web: snake-sarah
+web: go run main.go
