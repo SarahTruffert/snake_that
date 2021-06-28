@@ -1,1 +1,1 @@
-web: snake
+web: go run main.go
